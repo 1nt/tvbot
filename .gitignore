@@ -1,0 +1,8 @@
+.env
+.phpsessid
+.cookie_string
+__pycache__/
+*.pyc
+bot.db
+bot.log
+venv/
